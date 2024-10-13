@@ -102,6 +102,9 @@ public class MusicPlayerSync : MonoBehaviour
     }
 
     public void swapToSuper() {
+        if (subtracks.Length == 0) {
+            return;
+        }
         if (stopAllCoroutines) {
             StopAllCoroutines();
         }
@@ -112,6 +115,9 @@ public class MusicPlayerSync : MonoBehaviour
         //snapshots[0].TransitionTo(transitionTime);
     }
     public void swapToSub(int sub) {
+        if (subtracks.Length == 0) {
+            return;
+        }
         if (stopAllCoroutines) {
             StopAllCoroutines();
         }
