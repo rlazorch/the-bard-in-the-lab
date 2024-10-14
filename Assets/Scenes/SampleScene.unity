@@ -937,7 +937,7 @@ MonoBehaviour:
   death: {fileID: 0}
   subtracks:
   - {fileID: 8300000, guid: 8a2aba240306f4ff995ae9cd7fdc985c, type: 3}
-  defaultVolume: 0.35
+  defaultVolume: 0.5
   snapshots: []
   transitionTime_Death: 0.1
   transitionTime: 1
