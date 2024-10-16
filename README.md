@@ -2,6 +2,8 @@
 
 This is a demo project showcasing one way to have sound effects that change pitch to fit the music. This approach is not neccessarily the optimal version, but it hopefully provides an introduction to some of the main concepts you need to understand.
 
+To play a sound effect, press the spacebar. Notice that the PlayOneShot pitch change artifacts we saw in class are also present here.
+
 ### A note on approach
 
 This approach, using the in-engine pitch feature to change the pitch of a file, works best with short sounds (e.g. an orchestra hit, perhaps paired with a sword impact) or with chord progressions that include relatively small amounts of movement. A more practical approach would be to create a different version of the sound effect for every chord in the progression in an external program, since this offers more control over the length and envelope of the sound.

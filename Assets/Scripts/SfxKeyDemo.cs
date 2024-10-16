@@ -31,11 +31,13 @@ public class SfxKeyDemo : MonoBehaviour
     
     Here is an example chord progression with 3 chords: */
 
-    // float[] pitch_change_times = {0f, 8f, 12f}; // Start times for each pitch change event. First should always be 0f.
-    // float[] pitch_change_events = {1f, 4f/3, 0.8f};
+    float[] pitch_change_times = {0f, 8f, 12f}; // Start times for each pitch change event. First should always be 0f.
+    float[] pitch_change_events = {1f, 4f/3, 0.8f};
 
-    float[] pitch_change_times = {0f, 6.4f}; // Start times for each pitch change event. First should always be 0f.
-    float[] pitch_change_events = {1.05946309436f, 1.0f};
+    // Here is an example with 2 chords:
+
+    //float[] pitch_change_times = {0f, 6.4f}; // Start times for each pitch change event. First should always be 0f.
+    //float[] pitch_change_events = {1.05946309436f, 1.0f};
 
     /*
     When using a sound effect in a major key over a minor chord, consider raising the

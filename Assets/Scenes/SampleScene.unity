@@ -356,8 +356,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 63c51e990b66f4cf39b9eabb091c8d1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  loop: {fileID: 8300000, guid: 49ac5bb1084ed4cc99b02b803dea942a, type: 3}
-  sfx: {fileID: 8300000, guid: 2961bbb4ee19448a88081c17ad9addae, type: 3}
+  loop: {fileID: 8300000, guid: c50f6d5e07a0f4d52827cfd9fe8aa8e8, type: 3}
+  sfx: {fileID: 8300000, guid: 047f98a3e2033495eafd3a1fa7d3104a, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
