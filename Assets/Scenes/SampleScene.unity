@@ -316,7 +316,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -7195405285197425646, guid: 07fbc9a4fd01f474cbc0b18a9b10119d, type: 2}
-  m_audioClip: {fileID: 8300000, guid: f5b523e945ba146f3b651a21b9697d07, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 99abad45986d74e2da34644960848587, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.6
   m_Pitch: 1
@@ -461,9 +461,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -7195405285197425646, guid: 07fbc9a4fd01f474cbc0b18a9b10119d, type: 2}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b00a9344899d5480e8a62d644191b04f, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.15
+  m_Volume: 0.456
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -986,7 +986,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -7195405285197425646, guid: 07fbc9a4fd01f474cbc0b18a9b10119d, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ab1cfac452c724fdb8282cd3742a010d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: af6aa1af8b9954129a455e471737be23, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.75
   m_Pitch: 1
@@ -6420,7 +6420,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -2.6, y: -1.47, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6680,7 +6680,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: -7128608304340475907, guid: 07fbc9a4fd01f474cbc0b18a9b10119d, type: 2}
-  m_audioClip: {fileID: 8300000, guid: ddcfa6a3f27a5417aa8558efe97fd154, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 22364e57ad0e6476a86b2d57bbdbe7c3, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.5
   m_Pitch: 1
@@ -6778,7 +6778,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60baf1347ef7a4c1fa3902162586d7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  supertrack: {fileID: 8300000, guid: ddcfa6a3f27a5417aa8558efe97fd154, type: 3}
+  supertrack: {fileID: 8300000, guid: 22364e57ad0e6476a86b2d57bbdbe7c3, type: 3}
   death: {fileID: 8300000, guid: 827bd1fc7d5d24cfbbb20b9e4caa9358, type: 3}
   subtracks: []
   defaultVolume: 0.4
@@ -7009,8 +7009,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   usesPlayOneShot: 0
-  polyphony: 1
-  hasPitchVariation: 0
+  polyphony: 6
+  hasPitchVariation: 1
   deviation: 0.173
 --- !u!1 &1201506546
 GameObject:
