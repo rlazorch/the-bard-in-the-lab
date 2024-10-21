@@ -1,12 +1,5 @@
+You are free to reuse and adapt any code in this repository, even with modifications. Some code includes references to outside sources. Please consult the original source for details.
 
-### Art
+The visual art in this repository has primarily been sourced from the Unity Asset Store. Please consult the original artists before using any of the visual materials.
 
-- Scroll from ninja adventure
-### Audio
-- Sword swing from [Pixabay](https://pixabay.com/sound-effects/sword-swipes-7174/)
-- Sword impact from [Pixabay](https://pixabay.com/sound-effects/punch-dare-example-103568/)
-- Dash sound from [Pixabay](https://pixabay.com/sound-effects/fire-spell-100276/)
-
-- Cave Ambience from [Phantom Creations on freesound.org](https://freesound.org/people/PhantomCreations/sounds/447562/)
-- Outdoor fox ambience from [michieldb.nl on freesound.org](https://freesound.org/people/michieldb.nl/sounds/217739/)
-- Fire crackle ambience from [FunWithSound on freesound.org][https://freesound.org/people/FunWithSound/sounds/588401/]
+All music and sound effects are original unless otherwise specified. Please contact the owner of this repository if you are interested in using them in your own work.
