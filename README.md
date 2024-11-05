@@ -12,5 +12,6 @@ Incompetech | Royalty free music | https://incompetech.com/
 Pixabay | Free sounds | https://pixabay.com/
 Freesound | Free sounds, including field recordings | https://freesound.org/
 OpenGameArt.org | Free art and sounds | https://opengameart.org/
+BBC Sound Effects | Sounds for non-commercial or educational use | https://sound-effects.bbcrewind.co.uk/
 
 Many of these sources allow users to upload content under different licenses. Please be dutiful and check that your use case falls under the license. It is also good practice to credit the original artist whether or not the license specifies that attribution is required.
